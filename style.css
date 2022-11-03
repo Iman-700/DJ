@@ -1,0 +1,22 @@
+.encabezado{
+    font-size: 23px;
+    width: 100%;
+    margin: 0px;
+}
+.nota{
+    font-size: 15px;
+    color:black;
+}
+body{
+    background-size: cover;
+}
+.velocidad{
+    float: left;
+}
+.m1{
+    width: 200px;
+    border-radius: 100%;
+}
+.volumen{
+    float: right;
+}
